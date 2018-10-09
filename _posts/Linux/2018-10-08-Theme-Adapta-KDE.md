@@ -5,7 +5,7 @@ title: Installer le thème Adapta sur KDE (Kubuntu)
 permalink: /linux/adapta-kde.html
 ---
 
-![Adapta9](/techlovers/assets/image9giadapta.png) 
+![Adapta9](/techlovers/assets/image9adapta.png) 
 
 
 Adapta est un thème propre, moderne et soigné permettant de travailler dans un bon environnement. Il existe en GTK pour Gnome mais une équipe de développeurs a réussi à le porter sur KDE. Ils l'ont mis à disposition sur [GitHub](https://github.com/PapirusDevelopmentTeam/adapta-kde).
