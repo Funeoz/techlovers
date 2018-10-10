@@ -21,7 +21,7 @@ baseurl: "/techlovers" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Funeoz
 theme: materialize-jekyll
-
+remote_theme: victorpre/materialize-jekyll
 
 # Build settings
 markdown: kramdown
