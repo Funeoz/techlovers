@@ -13,9 +13,9 @@ Tout d'abord, git clone le repository :
 
 {% highlight bash %}
 $ git clone https://github.com/Veil-Framework/Veil.git
-#puis changer de dossier
+#Puis changer de dossier
 $ cd Veil 
-#exécuter le script d'installation
+#Exécuter le script d'installation
 $ ./config/setup.sh --force --silent
 {% endhighlight %}
 
@@ -110,7 +110,7 @@ Le module va ensuite demander le nom de fichier que vous voulez donner (ex: pyth
 
 {% highlight bash %}
 [>] Please enter the base name for output files (default is payload): python3.7_installer
-#attention:remplacez les espaces par des tirets bas.
+#Attention:remplacez les espaces par des tirets bas.
 {% endhighlight %}
 
 Puis celui-ci va vous demander quel module vous voulez utiliser pour générer l'exécutable (pour moi, ce sera PyInstaller) :
