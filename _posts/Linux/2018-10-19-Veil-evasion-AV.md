@@ -7,7 +7,7 @@ layout: post
 
 Veil (et non pas Veil-evasion qui a été discontinué) permet de rendre indétectable à environ 60% du temps un payload qui sera executé sur la cible. Son installation est très simple.
 
-##H2 Installation
+## Installation
 
 Tout d'abord, git clone le repository :
 
@@ -24,7 +24,7 @@ Cela va donc installer toutes les dépendances nécessaires.
 Il va vous être demandé aussi de renseigner le chemin pour Metasploit 
 (ex:/opt/metasploit-framework)
 
-##H2 Utilisation
+## Utilisation
 
 Deux modules sont utilisables dans le framework Veil : Evasion et Ordnance.
 
