@@ -21,12 +21,6 @@ baseurl: "/techlovers" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Funeoz
 
-# Algolia 
-algolia:
-  application_id: UK6TEOMRQS
-  index_name: techlovers
-  search_only_api_key: 23a1e9c5d76fa304bfd4bf08aa2a3acb
-
 # Build settings
 markdown: kramdown
 theme: minima
