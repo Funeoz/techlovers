@@ -7,7 +7,7 @@ layout: post
 
 Veil (et non pas Veil-evasion qui a été discontinué) permet de rendre indétectable à environ 60% du temps un payload qui sera executé sur la cible. Son installation est très simple.
 
-##H2 Installation
+## Installation
 
 Tout d'abord, git clone le repository :
 
@@ -24,7 +24,7 @@ Cela va donc installer toutes les dépendances nécessaires.
 Il va vous être demandé aussi de renseigner le chemin pour Metasploit 
 (ex:/opt/metasploit-framework)
 
-##H2 Utilisation
+## Utilisation
 
 Deux modules sont utilisables dans le framework Veil : Evasion et Ordnance.
 
@@ -32,8 +32,8 @@ Evasion permet donc d'éviter la détection des payloads et Ordnance de génére
 
 Si on va dans la partie Evasion en tapant <<use 1>> puis <<list>>, on peut voir que ces payloads peuvent être dans différents languages.
 Il faut savoir qu'il existe deux "types" de language : 
--les languages à haut niveau
--les languages à bas niveau
+- les languages à haut niveau
+- les languages à bas niveau
 
 Par exemple, le Python est un language à haut niveau. Ce qui veut dire qu'il est proche des languages réels, donc plus simple à écrire. Donc les payloads auront plus de chance à être détectés.
 
