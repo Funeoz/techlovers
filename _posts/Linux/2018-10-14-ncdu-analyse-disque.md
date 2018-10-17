@@ -34,23 +34,23 @@ Le scan terminé, on peut voir les dossiers triés dans l'ordre.
 
 Voici la liste des commandes traduites que vous pouvez utiliser dans ncdu pour ceux qui pourraient avoir du mal avec l'anglais.
 
-> ? : afficher aide (en anglais)
-> flèche haute, k : Monter
-> flèche basse, j : Descendre
-> flèche droite, entrée : Entrer dans le dossier
-> flèche gauche, <, h : Retourner au dossier parent
-> n : lister par nom (alphabétique (inverse))
-> s : lister par taille (croissante, décroissante)
-> C : lister par objets (croissant, décroissant)
-> d : supprimer dossier ou fichier sélectionné
-> t : dossiers listés en premier
-> g : afficher des pourcentages ou des graphiques
-> a : choisir entre taille apparente et taille occupée réellement
-> c : afficher le nombre de fichiers dans chaque dossier
-> e : afficher fichiers cachés
-> i : afficher des info sur l'objet sélectionné
-> r : recalculer la taille du dossier
-> b : ouvrir un terminal 
-> q : quitter ncdu
+> * ? : afficher aide (en anglais) 
+> * flèche haute, k : Monter 
+> * flèche basse, j : Descendre
+> * flèche droite, entrée : Entrer dans le dossier
+> * flèche gauche, <, h : Retourner au dossier parent
+> * n : lister par nom (alphabétique (inverse))
+> * s : lister par taille (croissante, décroissante)
+> * C : lister par objets (croissant, décroissant)
+> * d : supprimer dossier ou fichier sélectionné
+> * t : dossiers listés en premier
+> * g : afficher des pourcentages ou des graphiques
+> * a : choisir entre taille apparente et taille occupée réellement
+> * c : afficher le nombre de fichiers dans chaque dossier
+> * e : afficher fichiers cachés
+> * i : afficher des info sur l'objet sélectionné
+> * r : recalculer la taille du dossier
+> * b : ouvrir un terminal 
+> * q : quitter ncdu
 
 Je vous invite donc à consulter le [site web](https://dev.yorhel.nl/ncdu) pour l'installation sur votre distribution et le [manuel d'utilisation](https://dev.yorhel.nl/ncdu/man).
