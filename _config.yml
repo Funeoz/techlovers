@@ -22,6 +22,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Funeoz
 youtube_username: Davistar
 youtube_url: https://www.youtube.com/channel/UCmRpdW8WVVA4o3nhPjMG3Bg
+disqus:
+  shortname: techlovers-1
 
 # Build settings
 theme: minima
