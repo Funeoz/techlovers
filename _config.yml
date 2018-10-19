@@ -18,7 +18,7 @@ email: techlovers@zoho.eu
 description: >- # this means to ignore newlines until "baseurl:"
   Des tutoriels sur Linux et l'ethical hacking.
 baseurl: "/techlovers" # the subpath of your site, e.g. /blog
-url: "funeoz.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://funeoz.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Funeoz
 youtube_username: Davistar
 youtube_url: https://www.youtube.com/channel/UCmRpdW8WVVA4o3nhPjMG3Bg
