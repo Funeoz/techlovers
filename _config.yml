@@ -24,7 +24,6 @@ youtube_username: Davistar
 youtube_url: https://www.youtube.com/channel/UCmRpdW8WVVA4o3nhPjMG3Bg
 disqus:
   shortname: techlovers-1
-google_analytics: UA-127760203-1
 
 # Build settings
 theme: minima
