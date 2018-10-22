@@ -23,7 +23,7 @@ $ sudo dpkg -i packages-microsoft-prod.deb
 $ sudo apt-get update
 # puis on l'installe
 $ sudo apt-get install -y powershell
-{% end highlight %}
+{% endhighlight %}
 
 Un paquet Snap est disponible pour la 18.10, mais je ne vous la recommande pas à cause du stockage pris par le paquet à chaque mise à jour (Snap conserve deux anciennes versions et l'actuelle, prenant un espace considérable).
 
@@ -33,7 +33,7 @@ Pour lancer le powershell, il suffit de lancer le terminal et taper :
 
 {% highlight bash %}
 $ pwsh
-{% end highlight %}
+{% endhighlight %}
 
 ## Introduction
 
@@ -64,7 +64,7 @@ PS> Get-ExecutionPolicy
 Restricted
 # puis le changer
 PS> Set-ExecutionPolicy Unrestricted
-{% end highlight %}
+{% endhighlight %}
 
 Vous pouvez donc ensuite lancer tous les scripts que vous voulez, ce qui rendra votre machine plus vulnérable parallèlement.
 
@@ -78,7 +78,7 @@ PS> Get-Module
 PS> Get-Module -ListAvailable
 # et en importer un 
 PS> Import-Module ActiveDirectory
-{% end highlight %}
+{% endhighlight %}
 
 Voilà, l'introduction est finie. Je vous invite à consulter le site de Microsoft pour avoir des exemples plus précis sur son utilisation avec des 
 [tutoriels](https://docs.microsoft.com/fr-fr/powershell/scripting/getting-started/fundamental/sample-scripts-for-administration?view=powershell-6).
