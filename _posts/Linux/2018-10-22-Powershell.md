@@ -5,7 +5,7 @@ permalink: /code/utilisation-powershell.html
 title: Installation et introduction au PowerShell
 ---
 
-![Powershell](/techlovers/assets/image1powershell.jpg)
+![Powershell](/techlovers/assets/image1powershell.png)
 
 Le PowerShell est un est une suite logicielle écrite en C# et basé sur le framework Microsoft .NET . Elle comprend le language et la ligne de commande. Il est le successeur de cmd. Des informations sont disponibles sur le [site de Microsoft](http://www.microsoft.com/powershell) et son dépot est sur [GitHub](https://github.com/PowerShell/PowerShell). Il est disponible sur Mac OS, Windows (de base sur Windows 8, 8.1 et 10) et Linux
 
