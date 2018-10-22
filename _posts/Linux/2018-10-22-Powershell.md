@@ -37,7 +37,7 @@ $ pwsh
 
 ## Introduction
 
-Le PowerShell possède des commandes similaires à celles Unix telles que cd, rm,cat, find, wget, mv... . Ce qui rend son utilisation simple et rapide si vous êtes familier à ces commandes. Vous pouvez connaître toutes les commandes sur[Wikipedia](https://fr.wikipedia.org/wiki/Windows_PowerShell#frb-inline).
+Le PowerShell possède des commandes similaires à celles Unix telles que cd, rm,cat, find, wget, mv... . Ce qui rend son utilisation simple et rapide si vous êtes familier à ces commandes. Vous pouvez connaître toutes les commandes sur   [Wikipedia](https://fr.wikipedia.org/wiki/Windows_PowerShell#frb-inline).
 
 Il ne faut pas les confondre avec les "verbes" qui permettent d'effectuer des actions bien déterminées.
 
