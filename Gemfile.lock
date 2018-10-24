@@ -42,7 +42,7 @@ GEM
       jekyll-paginate (~> 1.1)
       jekyll-seo-tag (~> 2.5)
       jekyll-sitemap (~> 1.2)
-    jekyll-watch (2.1.1)
+    jekyll-watch (2.1.2)
       listen (~> 3.0)
     kramdown (1.17.0)
     liquid (4.0.1)
