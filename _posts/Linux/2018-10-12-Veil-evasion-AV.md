@@ -6,6 +6,8 @@ layout: post
 read_time: true
 ---
 
+![Veil](/techlovers/assets/image1veil.jpg) 
+
 Veil (et non pas Veil-evasion qui a été discontinué) permet de rendre indétectable à environ 60% du temps un payload qui sera executé sur la cible. Son installation est très simple.
 
 ## Installation
