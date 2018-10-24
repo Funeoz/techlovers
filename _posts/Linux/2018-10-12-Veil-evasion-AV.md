@@ -3,6 +3,7 @@ author: Funeoz
 permalink: /linux/veil-evasion-av.html
 title: Installation et utilisation de Veil(Evasion d'antivirus)
 layout: post
+read_time: true
 ---
 
 Veil (et non pas Veil-evasion qui a été discontinué) permet de rendre indétectable à environ 60% du temps un payload qui sera executé sur la cible. Son installation est très simple.
