@@ -9,7 +9,7 @@ t:
   skip_footer: "Aller au bas de page"
   menu: "Menu"
   search: "Chercher"
-  site_search: "Site Search"
+  site_search: "Recherche sur le site"
   results_found: "Résultat(s) trouvés"
   search_placeholder_text: "Faites votre recherche"
   home: "Accueil"
@@ -20,7 +20,7 @@ t:
   read_more: "Lire plus"
   posts: "Posts"
   page: "Page"
-  of: "of"
+  of: "de"
   min_read: "minutes de lecture"
   present: "Present"
 
