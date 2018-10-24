@@ -13,31 +13,68 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Techlovers
+lang: fr-FR
+title: My Awesome Site
 email: techlovers@zoho.eu
-description: >- # this means to ignore newlines until "baseurl:"
-  Des tutoriels sur Linux et l'ethical hacking.
-baseurl: "/techlovers" # the subpath of your site, e.g. /blog
-url: "https://funeoz.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  Funeoz
-youtube_username: Davistar
-youtube_url: https://www.youtube.com/channel/UCmRpdW8WVVA4o3nhPjMG3Bg
-disqus:
-  shortname: techlovers-1
-search: true
+description: Des turoriels sur Linux et l'ethical hacking 
+baseurl: "/techlovers" # the optional subpath of your site, e.g. "/blog"
+url: "https://funeoz.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+github_username: Funeoz
+logo: # path of site logo, e.g. "/assets/images/logo.png"
+search: true # true, false (default)
+search_full_content: false # true, false (default)
+search_provider: lunr # lunr (default), algolia
+algolia:
+  application_id: # YOUR_APPLICATION_ID
+  index_name: # YOUR_INDEX_NAME
+  search_only_api_key: # YOUR_SEARCH_ONLY_API_KEY
+  powered_by: # true (default), false
+
 # Build settings
+markdown: kramdown
 theme: jekyll-theme-basically-basic
-plugins:
+plugins: # previsously gems
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+feed:
+  path: atom.xml
+
+# Pagination - https://jekyllrb.com/docs/pagination/
+paginate: 10
+paginate_path: /page:num/
 
 # Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - .asset-cache
+  - .bundle
+  - .codeclimate.yml
+  - .editorconfig
+  - .gitattributes
+  - .jekyll-assets-cache
+  - .sass-cache
+  - .scss-lint.yml
+  - CHANGELOG
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - node_modules
+  - Rakefile
+  - README
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - /docs # ignore Basically Basic sample site
+  - /example # ignore Basically Basic dev site
+
+# Front Matter Defaults
+defaults:
+  # _posts
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      read_time: true
