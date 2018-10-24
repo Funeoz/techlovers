@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: fr-FR
-title: My Awesome Site
+title: Techlovers
 email: techlovers@zoho.eu
 description: Des turoriels sur Linux et l'ethical hacking 
 baseurl: "/techlovers" # the optional subpath of your site, e.g. "/blog"
