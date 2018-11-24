@@ -16,7 +16,7 @@
 lang: fr-FR
 title: Techlovers
 email: techlovers@zoho.eu
-description: Des turoriels sur Linux et l'ethical hacking 
+description: Des tutoriels sur Linux et l'ethical hacking 
 baseurl: "/techlovers" # the optional subpath of your site, e.g. "/blog"
 url: "https://funeoz.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 github_username: Funeoz
