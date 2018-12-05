@@ -8,6 +8,12 @@ read_time: true
 
 NCDU est une alternative à Qdirstat ou encore Baobab venant avec Gnome mais en version terminal. Il permet de lister les fichiers présents dans un certain dossier et des les classer par taille. Il est disponible sur plusieurs distibutions telles que Debian, Ubuntu,FreeBSD... Et aussi Mac OS.
 
+## Signification 
+
+NCDU signifie NCurses Disk Usage, NCurses étant une bibliothèque en C pour le développement d'environnements en texte seulement (cela est similaire au CLI qui traite lignes par lignes des commandes mais n'y est pas limité).
+
+DU pour l'analyse de la taille d'un dossier ou fichier.
+
 ## Installation
 
 Pour l'exemple, je vais l'installer sur Ubuntu depuis le terminal car il est déjà présent dans les repos :
