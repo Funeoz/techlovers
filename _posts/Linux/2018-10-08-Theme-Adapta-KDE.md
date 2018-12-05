@@ -4,6 +4,7 @@ author: Funeoz
 title: Installer le thème Adapta sur KDE (Kubuntu)
 permalink: /linux/adapta-kde.html
 read_time: true
+taxonomy: linux
 ---
 
 ![Adapta9](/techlovers/assets/image9adapta.png) 
