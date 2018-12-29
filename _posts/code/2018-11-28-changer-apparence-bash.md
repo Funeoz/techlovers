@@ -17,7 +17,7 @@ Bash affiche l'invite principale PS1 lorsqu'elle est prête à lire une commande
 Utilisez la commande echo pour afficher l'invite BASH actuelle:
 
 {% highlight bash %}
-#retourne l'invite principal
+#retourne l'invite principale
 $ echo $PS1
 {% endhighlight %}
 
