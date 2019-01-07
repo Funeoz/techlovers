@@ -58,22 +58,22 @@ $border-color: tint($base-color, 80%) !default;
 $overlay-color: $base-color !default;
 
 /* Syntax highlighting (base16) colors */
-$base00: #1c2023 !default;
-$base01: #393f45 !default;
-$base02: #565e65 !default;
-$base03: #747c84 !default;
-$base04: #adb3ba !default;
-$base05: #c7ccd1 !default;
-$base06: #dfe2e5 !default;
-$base07: #f3f4f5 !default;
-$base08: #c7ae95 !default;
-$base09: #c7c795 !default;
-$base0a: #aec795 !default;
-$base0b: #95c7ae !default;
-$base0c: #95aec7 !default;
-$base0d: #ae95c7 !default;
-$base0e: #c795ae !default;
-$base0f: #c79595 !default;
+$base00: #1d1f21 !default;
+$base01: #282a2e !default;
+$base02: #373b41 !default;
+$base03: #969896 !default;
+$base04: #2d71be !default;
+$base05: #c5c8c6 !default;
+$base06: #e0e0e0 !default;
+$base07: #ffffff !default;
+$base08: #c82829 !default;
+$base09: #f5871f !default;
+$base0a: #eab700 !default;
+$base0b: #718c00 !default;
+$base0c: #3e999f !default;
+$base0d: #4271ae !default;
+$base0e: #8959a8 !default;
+$base0f: #a3685a !default;
 
 /* Max-width of the main content */
 $main-max-width: $xlarge !default;

@@ -9,7 +9,8 @@ figure.highlight {
   background: $base00;
   color: $base05;
   font-family: $monospace-font-family;
-  line-height: 1.8;
+  line-height: 2.2;
+  font-weight: bold;
 
   > pre,
   pre.highlight {

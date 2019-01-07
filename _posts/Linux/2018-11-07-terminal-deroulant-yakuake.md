@@ -36,7 +36,7 @@ $ cd yakuake-<version>
 $ mkdir build
 # allez à ce dossier
 $ cd build
-# choississez où vous voulez l'installer
+# choisissez où vous voulez l'installer
 $ cmake -DCMAKE_INSTALL_PREFIX=<path to install to> ../
 # compilez
 $ make

@@ -34,7 +34,7 @@ $ echo "deb https://download.sublimetext.com/ apt/stable/" | sudo tee /etc/apt/s
 Pour le canal **Dev**:
 
 {% highlight bash %}
-echo "deb https://download.sublimetext.com/ apt/dev/" | sudo tee /etc/apt/sources.list.d/sublime-text.list
+$ echo "deb https://download.sublimetext.com/ apt/dev/" | sudo tee /etc/apt/sources.list.d/sublime-text.list
 {% endhighlight %}
 
 Rafraîchissez la liste des repositories et installez Sublime Text.
