@@ -23,7 +23,7 @@ Puis vérifier que APT peut fonctionner avec des sources sécurisées.
 $ sudo apt-get install apt-transport-https
 {% endhighlight %}
 
-Il y a ensuite deux canaux de développement : **Stable** ou **Dev**. Sélectionnez-en qu'une.
+Il y a ensuite deux canaux de développement : **Stable** ou **Dev**. Sélectionnez-en qu'un.
 
 Pour le canal **Stable**:
 
