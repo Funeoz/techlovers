@@ -9,7 +9,3 @@ Je fais des tutoriels à propos de Linux et d'ethical hacking avec mon partenair
 Pour me contacter ou faire une quelconque demande, envoyez un mail à :
 
 techlovers@zoho.eu
-
-Rejoignez notre Discord Hacking/Security : 
-
-<center><iframe src="https://discordapp.com/widget?id=506782436596645888&theme=dark" width="300" height="300" allowtransparency="true" frameborder="0"></iframe></center>
