@@ -37,7 +37,7 @@ Pour cela, exécutez la commande :
 
 {% highlight bash %}
 $ javac -version
-{% highlight bash %}
+{% endhighlight %}
 
 Cela devrait vous retourner "1.8.0_XXX" pour Java 8 ou "1.9.0_XXX" pour Java 9.
 
