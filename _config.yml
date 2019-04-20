@@ -31,6 +31,7 @@ algolia:
   powered_by: # true (default), false
 disqus:
   shortname: techlovers-1
+google_analytics: UA-138690289-1
 # Build settings
 markdown: kramdown
 remote_theme: "mmistakes/jekyll-theme-basically-basic"
