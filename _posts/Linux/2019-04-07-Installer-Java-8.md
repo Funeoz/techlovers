@@ -2,14 +2,16 @@
 layout: post
 author: Funeoz
 permalink: /linux/installer_java_8_9_ubuntu.html
-title: Installer Java 8 ou 9 sur Ubuntu (JRE)
+title: Installer Java 8 ou 9 sur Ubuntu (JRE) (Abandonné)
 ---
 
 ![Logo](/techlovers/assets/image1java.png)
 
 Java Runtime Environment ou JRE permet d'exécuter des fichiers .jar sur votre ordinateur. Ne pas confondre avec le JDK qui est un jeu de bibliothèques destiné au développement en langage Java.
 
-## Installation à l'aide du PPA de Webupd8
+## Installation à l'aide du PPA de Webupd8 (Abandonné)
+
+**ATTENTION: Le PPA pour JRE 8 ou 9 a été abandonné par WebUpd8. En effet, la license d'utilisation du JDK a été modifié par Oracle. Plus d'informations ici : [https://launchpad.net/~webupd8team/+archive/ubuntu/java](https://launchpad.net/~webupd8team/+archive/ubuntu/java). Le tutoriel est conservé comme une archive et ne peux plus être réalisé.**
 
 Le PPA permet d'installer automatiquement chaque nouvelle version de Java 8 ou 9. Il télécharge automatiquement les archives depuis le site d'Oracle et les configurent directement.
 
