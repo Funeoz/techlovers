@@ -1,14 +1,12 @@
 ---
-layout: page
-permalink: /techlovers/about.html
-show_sidebar: true
+layout: default
+title: A propos
 ---
 
-Hello evrubody
+Techlovers est un site francophone portant sur Linux et l'ethical hacking. Il se veut ouvert à toute contribution grâce à GitHub. 
 
+Pour toute réclamation, envoyez un e-mail à : <A HREF="mailto:techlovers@zoho.eu">techlovers@zoho.eu</A>.
 
-```yml
-title: A propos
-layout: page
-show_sidebar: true
-```
+<a href="https://fsf.org">
+<img src="https://static.fsf.org/nosvn/windows/win_infographic_final.png" width="400" height="500"> 
+</a>
