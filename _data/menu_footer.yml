@@ -1,0 +1,6 @@
+- name: Home
+  link: /
+- name: A propos
+  link: /about/
+- name: Contribuer
+  link: /contribute.html/

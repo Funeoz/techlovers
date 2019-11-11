@@ -2,17 +2,15 @@
 layout: default
 ---
 
-{% include page-intro.html %}
+<div class="content">
 
-<main id="main" class="page-content" aria-label="Content">
-  <div class="inner">
-    <article class="entry-wrap">
-      <div class="entry-content">
-        {{ content }}
-      </div>
-      {% if site.disqus.shortname %}
-        {% include disqus_comments.html %}
-      {% endif %}
-    </article>
-  </div>
-</main>
+    <p>Publié le: {{ page.date | date: "%-d %b, %Y" }} par {{ page.author }}</p>
+
+    {{ content }}
+</div>
+
+<div class="tags">
+    {% for tag in page.tags %}
+    <span class="tag is-primary">{{ tag }}</span>
+    {% endfor %}
+</div>

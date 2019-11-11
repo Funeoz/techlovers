@@ -2,14 +2,10 @@
 layout: default
 ---
 
-{% include page-intro.html %}
-
-<main id="main" class="page-content" aria-label="Content">
-  <div class="inner">
-    <article class="entry-wrap">
-      <div class="entry-content">
-        {{ content }}
-      </div>
-    </article>
-  </div>
-</main>
+{% if page.toc %}
+    {% assign contentsTitle = page.toc_title | default: 'Contents' %}
+    {% include toc.html html=content class='menu-list' h_min=2 h_max=3 contents_title=contentsTitle %}
+{% endif %}
+<div class="content">
+    {{ content }}
+</div>

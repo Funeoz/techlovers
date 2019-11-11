@@ -2,7 +2,7 @@
 title: Installer Metasploitable 2 sur VirtualBox
 author: Funeoz
 layout: post
-permalink: "/linux/metasploitable-2-virtualbox.html"
+permalink: "/hacking/metasploitable-2-virtualbox.html"
 read_time: true
 ---
 ![Metasploitable](/techlovers/assets/metasploitable.jpg)
