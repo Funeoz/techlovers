@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Contribuer à Techlovers
+show_sidebar: false
 ---
 
 Pour contribuer pour Techlovers, il suffit de se créer un compte Github.
