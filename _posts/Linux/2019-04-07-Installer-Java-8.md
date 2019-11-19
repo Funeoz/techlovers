@@ -3,6 +3,7 @@ layout: post
 author: Funeoz
 permalink: /linux/installer_java_8_9_ubuntu.html
 title: Installer Java 8 ou 9 sur Ubuntu (JRE) (Abandonné)
+category: linux
 ---
 
 ![Logo](/techlovers/assets/image1java.png)
