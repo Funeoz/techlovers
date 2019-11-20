@@ -4,6 +4,7 @@ permalink: /hacking/veil-evasion-av.html
 title: Installation et utilisation de Veil (Evasion d'antivirus)
 layout: post
 read_time: true
+category: hacking
 ---
 
 ![Veil](/techlovers/assets/image1veil.jpg) 

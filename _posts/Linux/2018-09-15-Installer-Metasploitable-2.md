@@ -4,6 +4,7 @@ author: Funeoz
 layout: post
 permalink: "/hacking/metasploitable-2-virtualbox.html"
 read_time: true
+category: hacking
 ---
 ![Metasploitable](/techlovers/assets/metasploitable.jpg)
 

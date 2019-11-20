@@ -4,11 +4,10 @@ title: Linux
 ---
 
 <div class="posts">
+    {% include pagination.html %}
     {% for post in site.posts %}
     {% if post.category == 'linux' %}
-        {% include pagination.html %}
         {% include post-card.html %}
-        {% include pagination.html %}
     {% endif %}
     {% endfor %}
   </div>
