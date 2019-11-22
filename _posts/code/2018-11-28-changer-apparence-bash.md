@@ -3,8 +3,9 @@ title: Changer l'apparence de bash
 author: Davistar
 permalink: /linux/bash/apparence.html
 layout: post
+category: linux
 ---
-![bash_img_main](/techlovers/assets/image1aliasbash.png)
+![bash_img_main](/techlovers/assets/2018-11-28/image1aliasbash.png)
 
 ## Changer l'apparence du shell (bash) sous les systèmes d'exploitation Linux ou Unix
 
@@ -25,7 +26,7 @@ Une fois cette commande executée, il vous sortira une chaine de caractères BAS
 
 ## Exemples de sortie:
 
-![outputps1](/techlovers/assets/ps1capture.png)
+![outputps1](/techlovers/assets/2018-11-28/ps1capture.png)
 
 Par défaut, l'invite de commande est définie sur [\u@\h \W] \$. Les caractères spéciaux échappés par une antislash sont décodés comme suit:
 
@@ -74,7 +75,7 @@ $ export PS1="\033[1;92m[\u@\h \033[1;94m\w\033[1;92m]~:\033[1;97m\$ "
 
 Sortie : 
 
-![capture2ps1](/techlovers/assets/capture2ps1.png)
+![capture2ps1](/techlovers/assets/2018-11-28/capture2ps1.png)
 
 ### Activer notre thème au démarrage de bash :
 
@@ -91,4 +92,4 @@ $ export PS1="\[\033[1;97m\]\342\224\214\342\224\200[\[\033[1;97m\]\u\[\033[1;97
 
 Voilà ce que cela donne :
 
-![capture3ps1](/techlovers/assets/capture3ps1.png)
+![capture3ps1](/techlovers/assets/2018-11-28/capture3ps1.png)

@@ -3,9 +3,10 @@ layout: post
 author: Funeoz
 title: Installer Sublime Text sur Ubuntu
 permalink: /code/sublime-text-ubuntu.html
+category: linux
 ---
 
-![WALL](/techlovers/assets/image1sublime.png)
+![WALL](/techlovers/assets/2018-12-29/image1sublime.png)
 
 Sublime Text est un éditeur de texte très populaire des développeurs du fait de son interface très légère et de la possibilité d'ajouter des thèmes ou des plugins. Celui-ci supporte 44 langages de programmation. Il est disponible sur Mac OS, Windows et Linux. 
 

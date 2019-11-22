@@ -3,7 +3,7 @@ author: Funeoz
 layout: post
 permalink: /linux/ncdu-analyse-dique.html
 title: NCDU, un analyseur de disque pour Linux
-read_time: true
+category: linux
 ---
 
 NCDU est une alternative à Qdirstat ou encore Baobab venant avec Gnome mais en version terminal. Il permet de lister les fichiers présents dans un certain dossier et des les classer par taille. Il est disponible sur plusieurs distibutions telles que Debian, Ubuntu,FreeBSD... Et aussi Mac OS.
@@ -31,13 +31,13 @@ $ ncdu /
 #le slash correspond au point de départ de l'analyse, soit la racine
 {% endhighlight %}
 
-![ncdu](/techlovers/assets/image1ncdu.png)
+![ncdu](/techlovers/assets/2018-10-14/image1ncdu.png)
 
 Cela va donc lancer l'analyse. Il est possible d'arrêter le scan en appuyant sur *q*.
 
 Le scan terminé, on peut voir les dossiers triés dans l'ordre.
 
-![ncdu2](/techlovers/assets/image2ncdu.png)
+![ncdu2](/techlovers/assets/2018-10-14/image2ncdu.png)
 
 Voici la liste des commandes traduites que vous pouvez utiliser dans ncdu pour ceux qui pourraient avoir du mal avec l'anglais.
 

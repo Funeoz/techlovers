@@ -6,7 +6,7 @@ permalink: "/hacking/metasploitable-2-virtualbox.html"
 read_time: true
 category: hacking
 ---
-![Metasploitable](/techlovers/assets/metasploitable.jpg)
+![Metasploitable](/techlovers/assets/2018-09-15/metasploitable.jpg)
 
 Installer Metasploitable 2 ne nécessite que quelques minutes.
 
@@ -23,22 +23,22 @@ Lancez VirtualBox et appuyez sur "Nouvelle".
 Puis nommez la machine "Metasploitable", sélectionnez comme type "Linux" et V
 version "Ubuntu (64-bit)".
 
-![image1vb](/techlovers/assets/image1vb.png)
+![image1metasploitable](/techlovers/assets/2018-09-15/image1metasploitable.png)
 
 Puis mettez la mémoire vive à 512mo qui est amplement suffisant à Metasploitable:
 
-![image2vb](/techlovers/assets/image2vb.png)
+![image2metasploitable](/techlovers/assets/2018-09-15/image2metasploitable.png)
 
 Ensuite, sélectionnez le fichiez metasploitable.vmdk qui se trouve dans le fichier zip: 
 
-![image3vb](/techlovers/assets/image3vb.png)
+![image3metasploitable](/techlovers/assets/2018-09-15/image3metasploitable.png)
 
 Appuyez maintenant sur "Créer" et allez dans "Configuration".
 Puis dans la sous-partie "Réseau" et sélectionnez la configuration réseau en "Réseau privé hôte". 
 
 *Si la sélection est indisponible, allez dans "Fichier" puis "Host network manager" et cliquez sur "Créer" (Je recommande d'utiliser cette configuration pour des raisons de sécurité car si celle-ci est exposée à Internet, elle serait très vulnérable).*
 
-![image4vb](/techlovers/assets/image4vb.png)
+![image4metasploitable](/techlovers/assets/2018-09-15/image4metasploitable.png)
 
 *Retounez donc dans "Configuration -> Réseau puis sélectionnez "Réseau privé hôte".*
 

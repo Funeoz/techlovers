@@ -6,7 +6,7 @@ title: Installer Java 8 ou 9 sur Ubuntu (JRE) (Abandonné)
 category: linux
 ---
 
-![Logo](/techlovers/assets/image1java.png)
+![Logo](/techlovers/assets/2019-04-07/image1java.png)
 
 Java Runtime Environment ou JRE permet d'exécuter des fichiers .jar sur votre ordinateur. Ne pas confondre avec le JDK qui est un jeu de bibliothèques destiné au développement en langage Java.
 
@@ -32,7 +32,7 @@ $ sudo apt update && sudo apt install oracle-java9-installer
 
 Il va vous être demandé d'accepter la license de Java pour télécharger les fichiers binaires de Java.
 
-![java](/techlovers/assets/image2java.jpg)
+![java](/techlovers/assets/2019-04-07/image2java.jpg)
 
 ## Vérifier la version de Java 
 

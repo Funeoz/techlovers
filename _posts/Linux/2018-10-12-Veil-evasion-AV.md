@@ -3,11 +3,10 @@ author: Funeoz
 permalink: /hacking/veil-evasion-av.html
 title: Installation et utilisation de Veil (Evasion d'antivirus)
 layout: post
-read_time: true
 category: hacking
 ---
 
-![Veil](/techlovers/assets/image1veil.jpg) 
+![Veil](/techlovers/assets/2018-10-12/image1veil.jpg) 
 
 Veil (et non pas Veil-evasion qui a été discontinué) permet de rendre indétectable à environ 60% du temps un payload qui sera executé sur la cible. Son installation est très simple.
 
@@ -30,7 +29,7 @@ Il va vous être demandé aussi de renseigner le chemin pour Metasploit
 
 ## Utilisation
 
-Deux modules sont utilisables dans le framework Veil : Evasion et Ordnance.
+Deux modules sont utilisables dans le framework Veil : Evasion et Ordonance.
 
 Evasion permet donc d'éviter la détection des payloads et Ordnance de générer des shellcode rapidement pour les utiliser avec des exploits ou des payloads. Mais cet article ne porte que sur Evasion.
 

@@ -3,9 +3,10 @@ layout: post
 author: Funeoz
 title: Coder sur Visual Studio Code avec n'importe quel appareil
 permalink: /code/coder_partout.html
+category: linux
 ---
 
-![Logo](/techlovers/assets/image1codercom.png)
+![Logo](/techlovers/assets/2019-03-26/image1codercom.png)
 
 Le site [Coder.com](https://coder.com/) permet de coder sur n'importe quel appareil avec VS Code. Il peut être installé avec Docker, ou des fichiers binaires disponibles pour Mac OS et Linux (version Windows bientôt disponible). Ou alors, il existe une version alpha et gratuite nommé "code-server" permettant directement de coder sur leur site. Son code source se trouve sur [GitHub](https://github.com/codercom/code-server). 
 

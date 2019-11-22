@@ -3,10 +3,10 @@ layout: post
 author: Funeoz
 title: Réduire la lumière bleue de son écran avec Redshift
 permalink: /linux/redshift-lumiere-bleue.html
-read_time: true
+category: linux
 ---
 
-![redshift](/techlovers/assets/image1redshift.png)
+![redshift](/techlovers/assets/2018-10-22/image1redshift.png)
 
 Si vous travaillez beaucoup la nuit, la lumière bleue peut impacter votre sommeil et donc la production de mélatonine (l'hormone du sommeil). La lumière bleue à aussi des effets d'endommagement sur la rétine ainsi que sur le diabète (étude Harvard disponible [ici](https://www.health.harvard.edu/staying-healthy/blue-light-has-a-dark-side))
 Voilà donc une raison de se protéger de cette lumière nocive à notre santé.

@@ -6,7 +6,7 @@ permalink: /linux/discord_linux.html
 category: linux
 ---
 
-![Wall](/techlovers/assets/image2discord.png)
+![Wall](/techlovers/assets/2019-09-22/image2discord.png)
 
 Discord est un logiciel propriétaire VoIP (Transmission de voix par Internet) apparu en 2015. Il a été conçu à ses débuts pour les gamers mais diverses communautés se mettent à l'utiliser à leurs fins respectives (développeurs, associations...).
 
@@ -14,7 +14,7 @@ Discord est un logiciel propriétaire VoIP (Transmission de voix par Internet) a
 
 Connectez-vous au site web de [Discord](https://discordapp.com). Et cliquez sur le bouton **Télécharger pour Linux** puis **.deb**.
 
-![image1](/techlovers/assets/image1discord.png)
+![image1](/techlovers/assets/2019-09-22/image1discord.png)
 
 Téléchargez le fichier puis ouvrez votre terminal :
 

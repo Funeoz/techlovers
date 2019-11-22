@@ -3,11 +3,10 @@ layout: post
 author: Funeoz
 title: Installer le thème Adapta sur KDE (Kubuntu)
 permalink: /linux/adapta-kde.html
-read_time: true
-taxonomy: linux
+category: linux
 ---
 
-![Adapta9](/techlovers/assets/image9adapta.png) 
+![Adapta9](/techlovers/assets/2018-10-08/image9adapta.png) 
 
 
 Adapta est un thème propre, moderne et soigné permettant de travailler dans un bon environnement. Il existe en GTK pour Gnome mais une équipe de développeurs a réussi à le porter sur KDE. Ils l'ont mis à disposition sur [GitHub](https://github.com/PapirusDevelopmentTeam/adapta-kde).
@@ -49,35 +48,35 @@ $ sudo make install
 
 Après ceci, il suffit d'appliquer les icônes:
 
-![Adapta1](/techlovers/assets/image1adapta.png) 
+![Adapta1](/techlovers/assets/2018-10-08/image1adapta.png) 
 
 Les couleurs :
 
-![Adapta2](/techlovers/assets/image2adapta.png) 
+![Adapta2](/techlovers/assets/2018-10-08/image2adapta.png) 
 
 Les polices de caractères Noto SANS (en police à chasse fixe, choisissez celle que vous préférez):
 
-![Adapta3](/techlovers/assets/image3adapta.png) 
+![Adapta3](/techlovers/assets/2018-10-08/image3adapta.png) 
 
 En apparence, Adapta :
 
-![Adapta4](/techlovers/assets/image4adapta.png) 
+![Adapta4](/techlovers/assets/2018-10-08/image4adapta.png) 
 
 En thème de bureau, la même chose :
 
-![Adapta5](/techlovers/assets/image5adapta.png) 
+![Adapta5](/techlovers/assets/2018-10-08/image5adapta.png) 
 
 En style de composant graphique, Kvantum :
 
-![Adapta6](/techlovers/assets/image6adapta.png) 
+![Adapta6](/techlovers/assets/2018-10-08/image6adapta.png) 
 
 Et en décorations de fenêtres, Adapta:
 
-![Adapta7](/techlovers/assets/image7adapta.png) 
+![Adapta7](/techlovers/assets/2018-10-08/image7adapta.png) 
 
 Et pour la fin, il faut sélectionner Adapta Nokto dans la fenêtre Kvantum Manager après avoir tapé <<kvantummanager>> dans le terminal :
 
-![Adapta8](/techlovers/assets/image8adapta.png) 
+![Adapta8](/techlovers/assets/2018-10-08/image8adapta.png) 
 
 
 
