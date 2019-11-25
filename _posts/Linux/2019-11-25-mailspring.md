@@ -11,7 +11,7 @@ Mailspring est un client de messagerie pour Linux basé sur Nylas. Il se veut pl
 
 ## Installation
 
-1. Téléchargez le fichier .deb sur le site de Mailspring : https://getmailspring.com/download.
+1. Téléchargez le fichier .deb sur le site de Mailspring : [https://getmailspring.com/download](https://getmailspring.com/download).
 
 2. Installez le fichier:
 
