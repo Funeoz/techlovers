@@ -5,6 +5,9 @@ title: Désactiver snapd (Ubuntu)
 category: linux
 permalink: /linux/desactiver_snapd.html
 ---
+ 
+ Snapd est un service offrant des paquets fonctionnant sur la plupart des distributions Linux développé par Canonical. 
+
 
 ## Pourquoi désactiver Snapd ?
 
