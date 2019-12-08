@@ -6,7 +6,7 @@ title: Rechercher
 <input type="text" id="search-input" placeholder="Rechercher">
 <ul id="results-container"></ul></div>
 
-<script src="/techlovers/search-script.js/" type="text/javascript"></script>
+<script src="https://unpkg.com/simple-jekyll-search/dest/simple-jekyll-search.min.js"></script>
 
 <script>
 SimpleJekyllSearch({
