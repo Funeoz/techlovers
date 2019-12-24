@@ -4,10 +4,8 @@ author: Funeoz
 permalink: /linux/bash/aliases.html
 title: Les alias Bash pour abréger des commandes
 category: linux
+image: /techlovers/assets/2018-11-24/image1aliasbash.png
 ---
-
-![Bash](/techlovers/assets/2018-11-24/image1aliasbash.png)
-
 
 Les alias Bash permettent de réduire ou abréger des commandes afin de les taper plus rapidement.
 

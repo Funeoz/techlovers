@@ -5,7 +5,6 @@ permalink: /linux/bash/apparence.html
 layout: post
 category: linux
 ---
-![bash_img_main](/techlovers/assets/2018-11-28/image1aliasbash.png)
 
 ## Changer l'apparence du shell (bash) sous les systèmes d'exploitation Linux ou Unix
 

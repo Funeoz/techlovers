@@ -5,9 +5,9 @@ title: Installer Discord sur Ubuntu
 permalink: /linux/discord_linux.html
 category: linux
 comments: true
+image: /techlovers/assets/2019-09-22/image2discord.png
+hero_image: /techlovers/assets/2019-09-22/image2discord.png
 ---
-
-![Wall](/techlovers/assets/2019-09-22/image2discord.png)
 
 Discord est un logiciel propriétaire VoIP (Transmission de voix par Internet) apparu en 2015. Il a été conçu à ses débuts pour les gamers mais diverses communautés se mettent à l'utiliser à leurs fins respectives (développeurs, associations...).
 

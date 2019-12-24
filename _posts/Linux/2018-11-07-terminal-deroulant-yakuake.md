@@ -4,9 +4,9 @@ title: Yakuake, un terminal déroulant pour des tâches rapides
 permalink: /linux/yakuake-terminal.html
 category: linux
 layout: post
+image: /techlovers/assets/2018-11-07/image1yakuake.png
 ---
-
-![image1yakuake](/techlovers/assets/2018-11-07/image1yakuake.png)
+&nbsp;
 
 Yakuake est un terminal déroulant créé par la communauté KDE. Il permet de faire apparaître depuis le haut de l'écran une console avec une simple combinaison de commandes (F12 par défaut). Il peut être personnalisé très facilement.
 

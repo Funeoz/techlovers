@@ -6,8 +6,6 @@ title: Installer Java 8 ou 9 sur Ubuntu (JRE) (Abandonné)
 category: linux
 ---
 
-![Logo](/techlovers/assets/2019-04-07/image1java.png)
-
 Java Runtime Environment ou JRE permet d'exécuter des fichiers .jar sur votre ordinateur. Ne pas confondre avec le JDK qui est un jeu de bibliothèques destiné au développement en langage Java.
 
 ## Installation à l'aide du PPA de Webupd8 (Abandonné)

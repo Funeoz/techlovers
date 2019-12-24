@@ -3,10 +3,9 @@ title: Installer Metasploitable 2 sur VirtualBox
 author: Funeoz
 layout: post
 permalink: "/hacking/metasploitable-2-virtualbox.html"
-read_time: true
 category: hacking
+image: /techlovers/assets/2018-09-15/metasploitable.jpg
 ---
-![Metasploitable](/techlovers/assets/2018-09-15/metasploitable.jpg)
 
 Installer Metasploitable 2 ne nécessite que quelques minutes.
 
