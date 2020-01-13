@@ -9,6 +9,8 @@ Pour toute réclamation, envoyez un e-mail à : <A HREF="mailto:techlovers@zoho.
 
 "Je peux expliquer le logiciel libre en 3 mots : liberté, égalité, fraternité.", Richard Stallman.
 
+&nbsp;
+
 <a href="https://fsf.org">
 <img src="https://static.fsf.org/nosvn/windows/win_infographic_final.png" width="400" height="500"> 
 </a>
