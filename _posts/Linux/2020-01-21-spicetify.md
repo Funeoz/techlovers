@@ -3,7 +3,7 @@ layout: post
 author: Funeoz
 title: Personnaliser Spotify avec Spicetify
 category: linux
-image: /techlovers/assets/2020-01-22/wall.png
+image: /techlovers/assets/2020-01-22/wall.webp
 permalink: /linux/spicetify_custom_spotify_linux.html
 ---
 
