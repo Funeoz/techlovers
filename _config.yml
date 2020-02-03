@@ -1,6 +1,6 @@
 # Site Settings
 title: Techlovers
-tagline:
+tagline: Site francophone sur Linux et l'ethical hacking
 email: techlovers@zoho.eu
 description: >
   Site collaboratif avec des tutoriels sur Linux et l'ethical hacking: logiciels, penetration testing, exploitation, cracking...
@@ -10,6 +10,8 @@ permalink: pretty
 favicon: /assets/icontux.png
 disqus:
   shortname: techlovers-1
+
+lang: fr_FR
 
 paginate: 5
 paginate_path: "/blog/page:num"
