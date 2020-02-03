@@ -1,7 +1,7 @@
 ---
 author: Funeoz
 title: Yakuake, un terminal déroulant pour des tâches rapides
-permalink: /linux/yakuake-terminal.html
+permalink: /linux/yakuake_terminal_deroulant_linux.html
 category: linux
 layout: post
 image: /techlovers/assets/2018-11-07/image1yakuake.png

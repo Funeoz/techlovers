@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Funeoz
-permalink: /linux/bash/aliases.html
+permalink: /linux/bash_aliases.html
 title: Les alias Bash pour abréger des commandes
 category: linux
 image: /techlovers/assets/2018-11-24/image1aliasbash.png

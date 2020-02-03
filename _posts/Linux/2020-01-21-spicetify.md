@@ -4,7 +4,7 @@ author: Funeoz
 title: Personnaliser Spotify avec Spicetify
 category: linux
 image: /techlovers/assets/2020-01-22/wall.png
-permalink: /linux/spicetify_custom_spotify.html
+permalink: /linux/spicetify_custom_spotify_linux.html
 ---
 
 Spicetify permet de personnaliser Spotify en injectant du code CSS ou Javascript directement dans l'application. Il permet donc par exemple de supprimer la barre de publicités de l'application. 

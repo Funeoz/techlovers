@@ -1,7 +1,7 @@
 ---
 author: Funeoz
 layout: post
-permalink: /linux/ncdu-analyse-dique.html
+permalink: /linux/ncdu_analyse_disque_linux.html
 title: NCDU, un analyseur de disque pour Linux
 category: linux
 ---

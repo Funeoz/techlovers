@@ -2,7 +2,7 @@
 layout: post
 author: Funeoz
 title: Installer Sublime Text sur Ubuntu
-permalink: /code/sublime-text-ubuntu.html
+permalink: /linux/installer_sublime_text_ubuntu.html
 category: linux
 image: /techlovers/assets/2018-12-29/image1sublime.png
 hero_image: /techlovers/assets/2018-12-29/image1sublime.png

@@ -2,7 +2,7 @@
 layout: post
 author: Funeoz
 title: Installer Discord sur Ubuntu
-permalink: /linux/discord_linux.html
+permalink: /linux/installer_discord_linux.html
 category: linux
 comments: true
 image: /techlovers/assets/2019-09-22/image2discord.png

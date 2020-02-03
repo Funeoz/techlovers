@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Funeoz
-permalink: /linux/discord_terminal.html
+permalink: /linux/discord_terminal_linux.html
 category: linux
 title: Avoir Discord sous un terminal (Cordless)
 image: /techlovers/assets/2019-12-24/image1cordless.jpg

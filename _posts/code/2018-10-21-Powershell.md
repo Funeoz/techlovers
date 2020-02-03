@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Funeoz
-permalink: /code/utilisation-powershell.html
+permalink: /code/utilisation_powershell.html
 title: Installation et introduction au PowerShell
 category: linux
 ---

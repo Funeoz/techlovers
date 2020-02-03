@@ -1,7 +1,7 @@
 ---
 title: Changer l'apparence de bash
 author: Davistar
-permalink: /linux/bash/apparence.html
+permalink: /linux/changer_apparence_bash.html
 layout: post
 category: linux
 ---
@@ -17,7 +17,7 @@ Bash affiche l'invite principale PS1 lorsqu'elle est prête à lire une commande
 Utilisez la commande echo pour afficher l'invite BASH actuelle:
 
 {% highlight bash %}
-#retourne l'invite principale
+# retourne l'invite principale
 $ echo $PS1
 {% endhighlight %}
 
@@ -83,7 +83,7 @@ $ echo $HOME
 # ceci renvoie /root
 # on va maintenant installer nano pour modifier le fichier .bashrc
 $ sudo apt-get update && apt-get upgrade -y && apt-get install nano -y
-#puis ouvrir le fichier
+# puis ouvrir le fichier
 $ sudo nano /root/.bashrc
 # ensuite, collez le thème PS1 avec la commande export en bas de .bashrc
 $ export PS1="\[\033[1;97m\]\342\224\214\342\224\200[\[\033[1;97m\]\u\[\033[1;97m\]@\[\033[1;97m\]\h\[\033[1;97m\]]\342\224\200[\[\033[1;97m\]\w\[\033[1;97m\]]\n\[\033[0;97m\]\342\224\224\342\224\200\342\224\200\342\225\274 \[\033[0m\]\[\e[01;97m\]$\[\e[0m\]"

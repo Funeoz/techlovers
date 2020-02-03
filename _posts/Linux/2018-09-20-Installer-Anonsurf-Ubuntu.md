@@ -2,7 +2,7 @@
 author: Funeoz 
 layout: post
 title: Installer Anonsurf sur Ubuntu 
-permalink: /hacking/anonsurf-ubuntu.html
+permalink: /hacking/anonsurf_ubuntu.html
 read_time: true
 category: hacking
 ---
