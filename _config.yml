@@ -8,8 +8,11 @@ baseurl: "/techlovers"
 url: "https://funeoz.github.io"
 permalink: pretty
 favicon: /assets/icontux.png
+
 disqus:
   shortname: techlovers-1
+twitter:
+  username: TechloversFr
 
 lang: fr_FR
 
