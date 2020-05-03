@@ -13,6 +13,7 @@ disqus:
   shortname: techlovers-1
 twitter:
   username: TechloversFr
+  card: summary
 
 lang: fr_FR
 
