@@ -1,5 +1,2 @@
----
-layout: none
----
 User-agent: *
-Sitemap: {{ site.url }}/sitemap.xml
+Sitemap: https://funeoz.github.io/techlovers/sitemap.xml
