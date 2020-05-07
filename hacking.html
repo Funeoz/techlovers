@@ -2,9 +2,10 @@
 layout: default
 title: Ethical hacking
 description: Retrouvez l'ensemble des tutoriels sur l'ethical hacking, l'exploitation, le pentest...
-redirect-to:
-  - https://thelinuxcamp.io/hacking/
 ---
+
+<meta http-equiv="refresh" content="0; url=https://thelinuxcamp.io/hacking/">
+<link rel="canonical" href="https://thelinuxcamp.io/hacking/"/>
 
 {% for post in site.categories.hacking %}
  <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a></li>

@@ -1,9 +1,11 @@
 ---
 layout: default
 title: Rechercher
-redirect-to:
-  - https://thelinuxcamp.github.io/search/
 ---
+
+<meta http-equiv="refresh" content="0; url=https://thelinuxcamp.github.io/search/">
+<link rel="canonical" href="https://thelinuxcamp.github.io/search/" />
+
 <div id="search-container">
 <input type="text" id="search-input" placeholder="Rechercher" style="width: 400px; height: 50px; font-size:18px;">
 <ul id="results-container"></ul></div>
