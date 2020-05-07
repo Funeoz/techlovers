@@ -1,9 +1,11 @@
 ---
 layout: default
 title: A propos
-redirect-to:
-  - https://thelinuxcamp.github.io/about/
 ---
+
+<meta http-equiv="refresh" content="0; url=https://thelinuxcamp.github.io/about/">
+<link rel="canonical" href="https://thelinuxcamp.github.io/about/" />
+
 
 Techlovers est un site francophone portant sur Linux et l'ethical hacking. Il se veut ouvert à toute contribution grâce à GitHub. 
 
