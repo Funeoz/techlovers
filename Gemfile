@@ -36,3 +36,5 @@ end
 gem "bulma-clean-theme"
 
 gem "jekyll-sitemap"
+
+gem 'jekyll-redirect-from'

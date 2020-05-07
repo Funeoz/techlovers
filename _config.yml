@@ -30,6 +30,7 @@ plugins:
   - kramdown
   - rouge
   - github-pages
+  - jekyll-redirect-from
 
 exclude: 
   - Gemfile

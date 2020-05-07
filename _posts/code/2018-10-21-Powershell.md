@@ -4,6 +4,8 @@ author: Funeoz
 permalink: /code/utilisation_powershell.html
 title: Installation et introduction au PowerShell
 category: linux
+redirect_to:
+  - https://thelinuxcamp.github.io/code/utilisation_powershell.html
 ---
 
 ![Powershell](/techlovers/assets/2018-10-21/image1powershell.png)
