@@ -4,6 +4,8 @@ title: Restaurer les permissions par défaut d'un répertoire ou d'un fichier
 permalink: /linux/restaurer_permissions_fichier_repertoire_linux.html
 category: linux
 layout: post
+redirect_to:
+  - https://thelinuxcamp.github.io/linux/restaurer_permissions_fichier_repertoire_linux.html
 ---
 
 Vous avez sûrement déjà toutes les permissions à un répertoire et tout son contenu avec ```chmod -R 777 .```.

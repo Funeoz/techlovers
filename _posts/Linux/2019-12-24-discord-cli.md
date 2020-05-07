@@ -6,6 +6,8 @@ category: linux
 title: Avoir Discord sous un terminal (Cordless)
 image: /techlovers/assets/2019-12-24/image1cordless.webp
 hero_image: /techlovers/assets/2019-12-24/image1cordless.webp
+redirect_to:
+  - https://thelinuxcamp.github.io/linux/discord_terminal_linux.html
 ---
 
 Discord peut être une application qui utilise beaucoup de mémoire vive. Pour cause, Discord se base sur Electron. Il existe donc des alternatives à Discord qui fonctionnent dans un terminal: [Cordless](https://github.com/Bios-Marcel/cordless), [terminal-discord](https://github.com/xynxynxyn/terminal-discord), [6cord](https://gitlab.com/diamondburned/6cord)...

@@ -5,6 +5,8 @@ title: Installer Wireshark sous Linux
 permalink: /hacking/installer_wireshark_linux.html
 image: /techlovers/assets/2020-04-30/image1wireshark.webp
 category: hacking
+redirect_to:
+  - https://thelinuxcamp.github.io/hacking/installer_wireshark_linux.html
 ---
 
 Wireshark est un outil très utilisé par les professionels de la cybersécurité. Il permet d'analyser les paquets transitant sur un réseau informatique.

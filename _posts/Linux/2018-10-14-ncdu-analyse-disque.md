@@ -4,6 +4,8 @@ layout: post
 permalink: /linux/ncdu_analyse_disque_linux.html
 title: NCDU, un analyseur de disque pour Linux
 category: linux
+redirect_to:
+  - https://thelinuxcamp.github.io/linux/ncdu_analyse_disque_linux.html
 ---
 
 NCDU est une alternative à Qdirstat ou encore Baobab venant avec Gnome mais en version terminal. Il permet de lister les fichiers présents dans un certain dossier et des les classer par taille. Il est disponible sur plusieurs distibutions telles que Debian, Ubuntu,FreeBSD... Et aussi Mac OS.

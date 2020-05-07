@@ -4,6 +4,8 @@ title: Télécharger de la musique depuis Deezer avec Deezloader
 permalink: /linux/deezloader-musique-depuis-deezer-linux.html
 category: linux
 image: /techlovers/assets/2020-05-06/image1deezloader.webp
+redirect_to:
+  - https://thelinuxcamp.github.io/linux/deezloader-musique-depuis-deezer-linux.html
 ---
 
 **ATTENTION, EN ANCUN CAS LES DÉVELOPPEURS ET MOI NE SONT RESPONSABLES DES DOMMAGES QUI POURRAIENT ÊTRE COMMIS PAR L'UTILISATION DE CET OUTIL. CELUI-CI PEUT ÊTRE ILLÉGAL DANS VOTRE PAYS. VOUS ÊTES PRÉVENUS. CE TUTORIEL EST A TITRE ÉDUCATIF.**

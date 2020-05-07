@@ -5,6 +5,8 @@ category: linux
 permalink: /linux/messagerie_mailspring_linux.html
 author: Funeoz
 image: /techlovers/assets/2019-11-25/wallmailspring.jpg
+redirect_to:
+  - https://thelinuxcamp.github.io/linux/messagerie_mailspring_linux.html
 ---
 
 Mailspring est un client de messagerie pour Linux basé sur Nylas. Il se veut plus rapide et plus travaillé. Le client est basé sur Electron. Certaines de ses fonctionnalités ont leurs [sources fermées](https://github.com/Foundry376/Mailspring/blob/master/ROADMAP.md#why-is-mailsync-closed-source) mais la plupart du code est disponible sur [GitHub](https://github.com/Foundry376/Mailspring).

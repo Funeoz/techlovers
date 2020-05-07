@@ -2,6 +2,8 @@
 layout: default
 show_sidebar: false
 title: Serveur Discord
+redirect-to:
+  - https://thelinuxcamp.github.io/discord/
 ---
 
 Un serveur Discord a été mis en place pour les utilisateurs du site.

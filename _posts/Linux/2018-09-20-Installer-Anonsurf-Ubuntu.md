@@ -5,6 +5,8 @@ title: Installer Anonsurf sur Ubuntu
 permalink: /hacking/anonsurf_ubuntu.html
 read_time: true
 category: hacking
+redirect_to:
+  - https://thelinuxcamp.github.io/hacking/anonsurf_ubuntu.html
 ---
 
 Installer Anonsurf est très simple. 

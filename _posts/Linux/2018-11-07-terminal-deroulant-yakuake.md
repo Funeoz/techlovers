@@ -5,6 +5,8 @@ permalink: /linux/yakuake_terminal_deroulant_linux.html
 category: linux
 layout: post
 image: /techlovers/assets/2018-11-07/image1yakuake.png
+redirect_to:
+  - https://thelinuxcamp.github.io/linux/yakuake_terminal_deroulant_linux.html
 ---
 &nbsp;
 

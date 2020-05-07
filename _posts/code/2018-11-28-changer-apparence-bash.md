@@ -4,6 +4,8 @@ author: Davistar
 permalink: /linux/changer_apparence_bash.html
 layout: post
 category: linux
+redirect_to:
+  - https://thelinuxcamp.github.io//linux/changer_apparence_bash.html
 ---
 
 ## Changer l'apparence du shell (bash) sous les systèmes d'exploitation Linux ou Unix

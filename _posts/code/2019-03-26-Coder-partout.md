@@ -4,6 +4,8 @@ author: Funeoz
 title: Coder sur Visual Studio Code avec n'importe quel appareil
 permalink: /code/coder_partout.html
 category: linux
+redirect_to:
+  - https://thelinuxcamp.github.io/code/coder_partout.html
 ---
 
 ![Logo](/techlovers/assets/2019-03-26/image1codercom.png)

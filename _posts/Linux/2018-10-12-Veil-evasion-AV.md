@@ -4,6 +4,8 @@ permalink: /hacking/veil_evasion_antivirus.html
 title: Installation et utilisation de Veil (Evasion d'antivirus)
 layout: post
 category: hacking
+redirect_to:
+  - https://thelinuxcamp.github.io/hacking/veil_evasion_antivirus.html
 ---
 
 ![Veil](/techlovers/assets/2018-10-12/image1veil.jpg) 

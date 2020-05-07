@@ -4,6 +4,8 @@ author: Funeoz
 title: Réduire la lumière bleue de son écran avec Redshift
 permalink: /linux/redshift_filtre_lumiere_bleue.html
 category: linux
+redirect_to:
+  - https://thelinuxcamp.github.io/linux/redshift_filtre_lumiere_bleue.html
 ---
 
 ![redshift](/techlovers/assets/2018-10-22/image1redshift.png)

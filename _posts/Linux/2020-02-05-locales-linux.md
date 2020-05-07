@@ -4,6 +4,8 @@ title: Supprimer des fichiers de langue inutiles sous Linux
 permalink: /linux/supprimer_locales_inutiles_linux.html
 category: linux
 layout: post
+redirect_to:
+  - https://thelinuxcamp.github.io/linux/supprimer_locales_inutiles_linux.html
 ---
 
 Lors de l'installation de votre système, celui-ci peut installer toutes les variates de langues (fr_BE,fr_CA...) qui peuvent être inutiles et occuper de l'espace.

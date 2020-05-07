@@ -1,3 +1,6 @@
+**Ce site a changé de repository et est devenu (thelinuxcamp.github.io)[https://thelinuxcamp.github.io]. Pour toute contribution, rendez-vous sur le nouveau repository: (https://github.com/thelinuxspot/linuxspot)[https://github.com/thelinuxspot/linuxspot].**
+
+
 ## LICENSE
 
 Le code source régissant le site est sous license [GNU/GPLv3](/LICENSE_2). Son contenu est sous license [CC by NC-SA 4.0](/LICENSE).

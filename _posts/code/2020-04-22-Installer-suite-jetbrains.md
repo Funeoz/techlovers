@@ -5,6 +5,8 @@ title: Installer la suite JetBrains sous Linux
 permalink: /linux/installer_suite_jetbrains_linux.html
 category: linux
 image: /techlovers/assets/2020-04-24/image1jetbrains.webp
+redirect_to:
+  - https://thelinuxcamp.github.io/linux/installer_suite_jetbrains_linux.html
 ---
 
 JetBrains est une compagnie qui offre différents IDE pour divers langages de programmation : PyCharm pour Python, PhpStorm pour le Web, IntelliJ IDEA pour Java/Kotlin...
