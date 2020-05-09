@@ -1,4 +1,4 @@
-**Ce site a changé de repository et est devenu https://thelinuxcamp.github.io. Pour toute contribution, rendez-vous sur le nouveau repository: https://github.com/thelinuxspot/linuxspot.**
+**Ce site a changé de repository et est devenu https://thelinuxcamp.github.io. Pour toute contribution, rendez-vous sur le nouveau repository: https://github.com/thelinuxcamp/linuxcamp.**
 
 
 ## LICENSE
